@@ -1,0 +1,18 @@
+body {
+  background: #dbe6f6;
+  background: -webkit-linear-gradient(to right, #c5796d, #dbe6f6);
+  background: linear-gradient(to right, #c5796d, #dbe6f6);
+}
+h1 {
+  color: #c5796d;
+  text-align: center;
+  font-family: "VT323", monospace;
+  font-size: 40px;
+}
+
+h2 {
+  margin: 10px;
+  color: purple;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
